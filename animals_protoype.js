@@ -1,3 +1,5 @@
+/* ES5 and earlier */
+
 /* Creating an object called animal with a method called eat */
 const animal = {
   eat: function () {

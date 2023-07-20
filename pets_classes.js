@@ -1,5 +1,3 @@
-
-
 /* ES6 Classes */
 
 /* Define a base class for pets */
